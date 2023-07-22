@@ -32,7 +32,7 @@ const AppWrapper = () => {
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
   <Provider store={store}>
-    <BrowserRouter basename="/recipes5">
+    <BrowserRouter basename="/react_node_fs_66_vitalij99">
       <AppWrapper />
     </BrowserRouter>
   </Provider>
