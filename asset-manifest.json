@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_66_vitalij99/static/css/main.58462fbc.css",
-    "main.js": "/react_node_fs_66_vitalij99/static/js/main.7ee704ab.js",
+    "main.js": "/react_node_fs_66_vitalij99/static/js/main.50687323.js",
     "static/js/925.84db45d1.chunk.js": "/react_node_fs_66_vitalij99/static/js/925.84db45d1.chunk.js",
     "static/media/full_desc_ratio_2.webp": "/react_node_fs_66_vitalij99/static/media/full_desc_ratio_2.cf22bbb2c8cfd520f63e.webp",
     "static/media/bg_desktop@2x.jpg": "/react_node_fs_66_vitalij99/static/media/bg_desktop@2x.4f06b67eab8a7224f77b.jpg",
@@ -72,11 +72,11 @@
     "static/media/bg1.svg": "/react_node_fs_66_vitalij99/static/media/bg1.b0045b65bb6661749f8cc0a99bdd492c.svg",
     "static/media/bg_black_desktop.svg": "/react_node_fs_66_vitalij99/static/media/bg_black_desktop.32fce8664a1d8050776c7fd298d54f19.svg",
     "main.58462fbc.css.map": "/react_node_fs_66_vitalij99/static/css/main.58462fbc.css.map",
-    "main.7ee704ab.js.map": "/react_node_fs_66_vitalij99/static/js/main.7ee704ab.js.map",
+    "main.50687323.js.map": "/react_node_fs_66_vitalij99/static/js/main.50687323.js.map",
     "925.84db45d1.chunk.js.map": "/react_node_fs_66_vitalij99/static/js/925.84db45d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.7ee704ab.js"
+    "static/js/main.50687323.js"
   ]
 }
