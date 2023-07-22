@@ -2,7 +2,7 @@
   "name": "recipes5",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vitalij99.github.io/recipes5/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_66_vitalij99/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
